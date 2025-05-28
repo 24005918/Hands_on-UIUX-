@@ -1,4 +1,3 @@
-![{66D6DDB3-0B74-4ED5-90D7-E3660D0CCA47}](https://github.com/user-attachments/assets/0c166a68-fedf-443e-b8bb-b57598e59a58)## Hands_on-UIUX
 ## Name : SANTHOSH V
 ## Reg. no: 212224220252
 ## AIM:

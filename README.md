@@ -1,4 +1,4 @@
-## Hands_on-UIUX
+![{66D6DDB3-0B74-4ED5-90D7-E3660D0CCA47}](https://github.com/user-attachments/assets/0c166a68-fedf-443e-b8bb-b57598e59a58)## Hands_on-UIUX
 ## Name : SANTHOSH V
 ## Reg. no: 212224220252
 ## AIM:
@@ -13,10 +13,8 @@
 
 ![{13FE9A9B-6F2B-4407-A361-58B95EAD3B94}](https://github.com/user-attachments/assets/e100e148-58e7-4ead-8091-f3179a177ecd)
 ![{7D4E7E01-F918-4DC8-BDF8-6B09D6567BFE}](https://github.com/user-attachments/assets/ea38e68c-7ec6-48ce-840f-20a5b83f4125)
-![Uploading {697152BB-8889-4A63-BC6F-3DBE5D6AE982}.png…]()
-![Uploading {4DA8BE3C-937C-4451-9585-985B66A23DEC}.png…]()
-![Uploading {B05225BD-FC05-4F31-878E-D6514362B7C0}.png…]()
-![Uploading {A0AAFB24-B7B6-4801-AA8D-A9EF32601BE4}.png…]()
+![{85CF0057-6985-401D-9643-99F3C88DC7AA}](https://github.com/user-attachments/assets/8717ab4a-9a9a-46eb-b75f-f1b7ff927c80)
+![{C8F48935-8DCD-4C8B-85B1-88242F2890E0}](https://github.com/user-attachments/assets/84296dae-5c6b-4c7d-bc9e-6672e87e1ed9)
 
 ## Result:
 Thus, the experiment was completed successfully.
